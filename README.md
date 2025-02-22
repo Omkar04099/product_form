@@ -23,23 +23,23 @@ npm install
 3.Start the development server:
 npm start
 
-##Technologies Used
+## Technologies Used
 React
 React Hook Form
 Yup (Validation)
 React Select
 Tailwind CSS
 
-##🌐 Deployment
+## 🌐 Deployment
 You can deploy this app for free on platforms like:
 
 🔹 Vercel → vercel.com
 🔹 Netlify → netlify.com
 
-##🤝 Contributing
+## 🤝 Contributing
 Feel free to fork, modify, and create pull requests!
 
-##📄 License
+## 📄 License
 This project is open-source.
 
 🚀 Happy Coding! 😃
