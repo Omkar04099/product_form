@@ -1,8 +1,45 @@
-# React + Vite
+# 🚀 Product Form  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **React-based product form** with validation, dynamic state-city selection, and file upload, built using **React Hook Form** and **Yup**.
 
-Currently, two official plugins are available:
+[Visit Live Demo](https://productform1.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features  
+- ✅ **Form Validation** using `react-hook-form` and `yup`  
+- 📂 **File Upload** (JPG/PNG, max 2MB)  
+- 🌎 **Dynamic State & City Selection**  
+- ⚡ **Optimized Performance** (`useCallback`, `useMemo`)  
+- 🎨 **Styled with Tailwind CSS**  
+
+## 📦 Installation  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/product-form.git
+   cd product-form
+
+2.Install dependencies:
+npm install
+
+3.Start the development server:
+npm start
+
+##Technologies Used
+React
+React Hook Form
+Yup (Validation)
+React Select
+Tailwind CSS
+
+##🌐 Deployment
+You can deploy this app for free on platforms like:
+
+🔹 Vercel → vercel.com
+🔹 Netlify → netlify.com
+
+##🤝 Contributing
+Feel free to fork, modify, and create pull requests!
+
+##📄 License
+This project is open-source.
+
+🚀 Happy Coding! 😃
