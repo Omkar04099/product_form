@@ -17,11 +17,13 @@ A simple **React-based product form** with validation, dynamic state-city select
    git clone https://github.com/your-username/product-form.git
    cd product-form
 
-2.Install dependencies:
-npm install
+2. Install dependencies:
+   ```bash
+   npm install
 
-3.Start the development server:
-npm start
+3. Start the development server:
+   ```bash
+   npm start
 
 ## Technologies Used
 React
